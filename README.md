@@ -1,2 +1,2 @@
-# YBI Foundation - Data-Science-Projects @ 
+# YBI Foundation - Data-Science-Projects  
 Projects of Data Science, ML and Business
